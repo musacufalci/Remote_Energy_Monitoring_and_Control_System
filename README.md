@@ -8,7 +8,5 @@ Uzaktan enerji izleme, enerji verilerinin toplanması ve raporlanması için kan
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-- The work of the project and software simulation: https://youtu.be/UvCVm7yLGiU
-
-- Design by: https://www.linkedin.com/in/musacufalci/
+- The work of the project and software simulation: https://youtu.be/a3r6-lktc4U
 
